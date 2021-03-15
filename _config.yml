@@ -23,19 +23,15 @@ heroimage: https://github.com/JhonChahuaJ/images_page/blob/main/_img/fondo_ch.jp
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: chahua.evar@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+facebook_username: jhon.chahua.902
+twitter_username: JhonChahua2
+instagram_username: jhelchja
+linkedin_username: jhon-elvis-chahua-janampa-5812218b
+github_username: JhonChahuaJ 
+youtube_channel_id: UCcfdu0Uu671enw7o3TN7E8Q
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: 
 
 # Disqus
 disqus-shortname: Jhon E.
@@ -45,7 +41,7 @@ author-name: Jhon Chahua
 # URL for the Image of the Author
 author-image: https://github.com/JhonChahuaJ/images_page/blob/main/_img/pfunir.jpg?raw=true
 # 60 Words About the Author
-author-about: Especialista en Gestión del Riesgo de Desastres, manejo de modelos numéricos para la simulación de eventos hidrometeorológicos y de movimientos. Implementación de nuevas tecnologías aplicado a estudios de ingeniería.
+author-about: Ingeniero Mecánico de Fluidos; especialista en metodologías, estudios y tecnologías en Gestión del Riesgo de Desastres; Manejo de modelos numéricos para la simulación de eventos hidrometeorológicos extremos, movimientos en masa, sísmicos y volcánicos; Desarrollo y participación en estudios de investigación científica orientados a flujos de lodo, hiperconcentrados, detritos, radar meteorológico y sistemas de alerta con fines a la reducción del riesgo de desastres por eventos naturales.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://jhonchahuaj.github.io
 
