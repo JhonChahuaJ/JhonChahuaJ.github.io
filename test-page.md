@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Enlaces oficiales
 layout: page
 ---
 
@@ -10,7 +10,7 @@ layout: page
 ##### This is heading 5
 ###### This is heading 6
 
-[This is a link](#)
+[Esto es un link](#)
 
 > This is a blockquote
 
