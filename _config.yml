@@ -7,7 +7,7 @@ url: 'https://jhonchahuaj.github.io'
 baseurl: 
 
 # Title of the Site
-title: Jhon Chahua J.
+title: Jhon Chahua
 # Description of the Site
 description: Servicios de consultoría especializada
 # URL of Image of the Site
@@ -37,11 +37,11 @@ google-analytics:
 disqus-shortname: Jhon E.
 
 # Name of the Author
-author-name: Jhon Chahua
+author-name: Jhon E. Chahua Janampa
 # URL for the Image of the Author
 author-image: https://github.com/JhonChahuaJ/images_page/blob/main/_img/pfunir.jpg?raw=true
 # 60 Words About the Author
-author-about: Ingeniero Mecánico de Fluidos; especialista en metodologías, estudios y tecnologías en Gestión del Riesgo de Desastres; Manejo de modelos numéricos para la simulación de eventos hidrometeorológicos extremos, movimientos en masa, sísmicos y volcánicos; Desarrollo y participación en estudios de investigación científica orientados a flujos de lodo, hiperconcentrados, detritos, radar meteorológico y sistemas de alerta con fines a la reducción del riesgo de desastres por eventos naturales.
+author-about: Ingeniero Mecánico de Fluidos; especialista en estudios, metodologías y tecnologías en Gestión del Riesgo de Desastres; Manejo de modelos numéricos para la simulación de eventos hidrometeorológicos extremos, movimientos en masa, sísmicos y volcánicos.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://jhonchahuaj.github.io
 
