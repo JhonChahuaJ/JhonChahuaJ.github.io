@@ -1,20 +1,20 @@
-- name: Aerofotogrametría con drones
+- name: Aerofotogrametría
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  #link:
+  link:
   description: Uso de drones para topografía, generación de modelos digitales de superficie y ortofotos.
 - name: Hidrología e Hidráulica computacional
   description: Elaboración de estudios hidrológicos e hidráulicos y simulación de eventos naturales.
-  #link:
+  link:
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
 - name: Gestión del Riesgo de Desastres
-  #link:
+  link:
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
   description: Elaboración de Informes de Evaluación del Riesgo, investigación y estudios relacionados.
 - name: Automatización e Inteligencia Artificial
-  #link:
+  link:
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: Automatización de procesos, creación de modelos numéricos y procesos en SIG.
 - name: Servicios especializados
-  #link:
+  link:
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: Elaboración de estudios específicos con equipo técnico de consultores y capacitaciones.
