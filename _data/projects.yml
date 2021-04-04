@@ -1,14 +1,14 @@
-- name: Aerofotogrametría y topografía
+- name: Aerofotogrametría y Topografía
   image: https://github.com/JhonChahuaJ/JhonChahuaJ.github.io/blob/master/assets/images/1-aero.jpg?raw=true
   link:
   description: Uso de drones para topografía, generación de modelos digitales de superficie y ortofotos.
-- name: Hidrología e Hidráulica
+- name: Hidrología e Hidráulica Computacional
   description: Elaboración de estudios hidrológicos e hidráulicos y simulación de eventos naturales.
   link:
   image: https://github.com/JhonChahuaJ/JhonChahuaJ.github.io/blob/master/assets/images/2-hid.jpg?raw=true
 - name: Gestión del Riesgo de Desastres
   link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  image: https://github.com/JhonChahuaJ/JhonChahuaJ.github.io/blob/master/assets/images/3-grd.jpg?raw=true
   description: Elaboración de Informes de Evaluación del Riesgo (EVAR), PPRD y estudios relacionados.
 - name: Automatización e Inteligencia Artificial
   link:
