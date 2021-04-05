@@ -1,13 +1,20 @@
 ---
-title: Enlaces oficiales
+title: Enlaces oficiales*
 layout: page
 ---
+###### *Principales enlaces oficiales utilizados en [consultorías]({{site.url}}{{site.baseurl}}/project){:target="blankl"}
+## Instituciones Técnico científicas del Perú
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
+> * Instituto Geológico Minero MetalúrgioFork the [repository](https://github.com/thedevslot/WhatATheme/tree/master){:target="blankl"}
+> * Go to repository settings and set Github Pages source as master.
+> * Your new site should be ready at [https://username.github.io/WhatATheme/](#){:target="blank"}
+
+
+#### *Principales enlaces oficiales utilizados en [consultorías]({{site.url}}{{site.baseurl}}/project){:target="blankl"}
+## Instituciones técnico científicas del Perú
+> *Instituto Geológico Minero Metalúrgico
+[Ingemmet](https://portal.ingemmet.gob.pe/)
+### This is heading 5
 ###### This is heading 6
 
 [Esto es un link](#)
