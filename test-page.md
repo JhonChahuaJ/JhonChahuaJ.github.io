@@ -2,35 +2,20 @@
 title: Enlaces oficiales*
 layout: page
 ---
-###### *Principales enlaces oficiales utilizados en [consultorías]({{site.url}}{{site.baseurl}}/project){:target="blankl"}
-## Instituciones Técnico científicas del Perú
-
-> * Instituto Geológico Minero MetalúrgioFork the [repository](https://github.com/thedevslot/WhatATheme/tree/master){:target="blankl"}
-> * Go to repository settings and set Github Pages source as master.
-> * Your new site should be ready at [https://username.github.io/WhatATheme/](#){:target="blank"}
-
-
 #### *Principales enlaces oficiales utilizados en [consultorías]({{site.url}}{{site.baseurl}}/project){:target="blankl"}
-## Instituciones técnico científicas del Perú
-> *Instituto Geológico Minero Metalúrgico
-[Ingemmet](https://portal.ingemmet.gob.pe/)
-### This is heading 5
-###### This is heading 6
+## Instituciones Técnico Científicas del Perú
+<div style="text-align: left">
+<li type="square">Autoridad Nacional del Agua<a href="https://www.gob.pe/ana">ANA</a><li>
 
-[Esto es un link](#)
+<li type="square">Dirección de Hidrografía y Navegación<a href="https://www.dhn.mil.pe/">DHN</a><li>
 
-> This is a blockquote
+<li type="square">Instituto Geológico Minero Metalúrgico<a href="https://www.gob.pe/ingemmet">Ingemmet</a><li>
 
-`This is code`
+<li type="square">Instituto Nacional de Investigación en Glaciares y Ecosistemas de Montaña<a href="https://www.gob.pe/inaigem">Inaigem</a></li>
 
-### Bullet List
-* Item 1
-* Item 2
-* Item 3
-* Item 4
+<li type="square">Instituto Geográfico Nacional<a href="https://www.gob.pe/ign">IGN</a></li>
 
-### Number List
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
+<li type="square">Instituto Geofísico del Perú<a href="https://www.gob.pe/igp">IGP</a><li>
+
+<li type="square">Servicio Nacional de Meteorología e Hidrología del Perú<a href="https://www.gob.pe/senamhi">Senamhi</a><li>
+<ul>
