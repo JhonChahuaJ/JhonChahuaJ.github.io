@@ -53,7 +53,7 @@ For more information about writing markdown you can checkout the following markd
 5. Item 5
 
 **Images in the post will look like:**<br>
-![Test Image](/JhonChahuaJ.github.io/assets/images/1280x720%20Placeholder.png)
+![Test Image](/JhonChahuaJ.github.io/_site/assets/images/1280x720%20Placeholder.png)
 
 
 **Normal text in the post will look like**<br>
