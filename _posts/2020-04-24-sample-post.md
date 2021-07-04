@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: "https://github.com/JhonChahuaJ/JhonChahuaJ.github.io/blob/master/assets/images/SamplePost.png?raw=true"
+post-image: "https://drive.google.com/file/d/1F4UI-7h96HJarkWGCqKfilOQ5jzH_LIB/view?usp=sharing"
 
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
