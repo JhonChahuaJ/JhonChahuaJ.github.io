@@ -1,7 +1,8 @@
 ---
 title: Sample Post
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://github.com/JhonChahuaJ/JhonChahuaJ.github.io/blob/master/assets/images/SamplePost.png?raw=true"
+
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
@@ -36,7 +37,7 @@ For more information about writing markdown you can checkout the following markd
 `Codes on your post will look like this`
 
 **Link in the post will look like:**<br>
-[This is a link](#)
+[This is a link](https://www.facebook.com/jhonelvis.chahuajanampa/posts/1264831936945461)
 
 **Bullet list in the post will look like:**
 * Item 1
@@ -53,7 +54,10 @@ For more information about writing markdown you can checkout the following markd
 5. Item 5
 
 **Images in the post will look like:**<br>
-![Test Image](/JhonChahuaJ.github.io/_site/assets/images/1280x720%20Placeholder.png)
+<iframe width="90%" height="500px" allowFullScreen="true" allow="accelerometer; magnetometer; gyroscope" style="display:block; margin:20px auto; border:0 none; max-width:880px;border-radius:8px; box-shadow: 0 1px 1px rgba(0,0,0,0.11),0 2px 2px rgba(0,0,0,0.11),0 4px 4px rgba(0,0,0,0.11),0 6px 8px rgba(0,0,0,0.11),0 8px 16px rgba(0,0,0,0.11);" src="https://panoraven.com/es/embed/4eg9PqfsEV"></iframe>
+
+**Images in the post will look like:**<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d845.1174312236391!2d-77.06401717084414!3d-11.90082168719343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTHCsDU0JzAzLjAiUyA3N8KwMDMnNDguNSJX!5e1!3m2!1ses-419!2spe!4v1625435227345!5m2!1ses-419!2spe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 **Normal text in the post will look like**<br>
