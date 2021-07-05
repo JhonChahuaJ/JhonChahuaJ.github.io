@@ -40,5 +40,3 @@ Luego que se realizó y publicó el reporte de emergencia en las redes sociales 
         <li type="square">
         Chahua J., Jhon E. (17 de marzo del 2017). Erosión fluvial - inspección.<i> Jhon Chahua.</i><a href="https://jhonchahuaj.github.io/blog/erosion_fluvial">https://jhonchahuaj.github.io/blog/erosion_fluvial</a>.</li>
     </ul>
-
-<a class="copi" id="getlink" href="javascript:void();">Copiar URL</a>
