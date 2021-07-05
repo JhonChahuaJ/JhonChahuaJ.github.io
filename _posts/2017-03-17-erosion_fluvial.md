@@ -33,18 +33,12 @@ Luego que se realizó y publicó el reporte de emergencia en las redes sociales 
 
 
 ---
-¿Te fue útil esta publicación? referéncialo en tus documentos utilizando la Norma APA (7ma versión):
 
-Chahua J., Jhon E. (17 de marzo del 2017). Erosión fluvial - inspección. Jhon Chahua. 
+> ¿Te fue útil esta publicación? referéncialo en tus documentos utilizando la Norma APA (7ma versión):
+> <div style="text-align: left">
+    <ul>
+        <li type="square">
+        Chahua J., Jhon E. (17 de marzo del 2017). Erosión fluvial - inspección.<i> Jhon Chahua.</i><a href="https://jhonchahuaj.github.io/blog/erosion_fluvial">https://jhonchahuaj.github.io/blog/erosion_fluvial</a>.</li>
+    </ul>
 
----
-<a href="javascript:getlink();">Copiar URL</a>
-<script>//<![CDATA[
-    function getlink() {
-    var aux = document.createElement("input");
-    aux.setAttribute("value",window.location.href);
-    document.body.appendChild(aux);
-    aux.select();
-    document.execCommand("copy");
-    document.body.removeChild(aux);}
-//]]></script>
+<a class="copi" id="getlink" href="javascript:void();">Copiar URL</a>
