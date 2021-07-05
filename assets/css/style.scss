@@ -353,34 +353,12 @@ a.navbar-item.is-active {
         }
     }
 }
-.getlink {
-    width: 120px;
-    margin: 40px auto;
+.copi {
     display: block;
-  position:relative;
-  height: 25px;
-  line-height: 25px;
-  text-align: center;
-  text-decoration: none;
-  padding: 9px;
-  color: white;
-  background: DarkSlateBlue;
-  }
-  .getlink:hover {
-  background: slateblue;
-  }
-  .getlink:after {
-  border-color: transparent transparent transparent DarkSlateBlue ;
-  border-style: solid;
-  border-width: 22px; 
-  content: "";
-  float: right;
-  right:-44px;
-  height: 0;
-  position: absolute;
-  top: 0;
-  width: 0;
-  }
-  .getlink:hover:after {
-  border-color: transparent transparent transparent slateblue;
-  }
+    width: 120px;
+    margin: 0 auto;
+    padding: 10px;
+    color: #ffffff;
+    background: #990000;
+    text-align: center;
+    }
