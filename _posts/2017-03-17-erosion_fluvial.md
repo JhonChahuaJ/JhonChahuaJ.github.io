@@ -31,33 +31,20 @@ Luego que se realizó y publicó el reporte de emergencia en las redes sociales 
 ###### Figura 3: Vista 360° de la zona inspeccionada.
 <iframe width="90%" height="500px" allowFullScreen="true" allow="accelerometer; magnetometer; gyroscope" style="display:block; margin:20px auto; border:0 none; max-width:880px;border-radius:8px; box-shadow: 0 1px 1px rgba(0,0,0,0.11),0 2px 2px rgba(0,0,0,0.11),0 4px 4px rgba(0,0,0,0.11),0 6px 8px rgba(0,0,0,0.11),0 8px 16px rgba(0,0,0,0.11);" src="https://panoraven.com/es/embed/4eg9PqfsEV"></iframe>
 
----
 
 ---
-<a class='copi' id='getlink' href='javascript:void();'>Copiar URL</a>
+¿Te fue útil esta publicación? referéncialo en tus documentos utilizando la Norma APA (7ma versión):
 
+Chahua J., Jhon E. (17 de marzo del 2017). Erosión fluvial - inspección. Jhon Chahua. 
+
+---
+<a href="javascript:getlink();">Copiar URL</a>
 <script>//<![CDATA[
-var boton = document.getElementById('getlink');
-boton.addEventListener('click', function(e) {
-if(boton.id == 'getlink'){
-var aux = document.createElement('input');
-aux.setAttribute('value', window.location.href.split('?')[0].split('#')[0]);
-document.body.appendChild(aux);
-aux.select();
-try {
-document.execCommand('copy');
-var aviso = document.createElement('div');
-aviso.setAttribute('id', 'aviso');
-aviso.style.cssText = 'position:fixed; z-index: 9999999; top: 50%;left:50%;margin-left: -70px;padding: 20px; background: gold;border-radius: 8px;font-family: sans-serif;';
-aviso.innerHTML = 'URL copiada';
-document.body.appendChild(aviso);
-document.load = setTimeout('document.body.removeChild(aviso)', 2000);
-document.load = setTimeout('boton.id = "getlink"',2500);
-boton.id = '';
-} catch (e) {
-alert('Tu navegador no soporta la función de copiar');
-}
-document.body.removeChild(aux);
-}
-});
+    function getlink() {
+    var aux = document.createElement("input");
+    aux.setAttribute("value",window.location.href);
+    document.body.appendChild(aux);
+    aux.select();
+    document.execCommand("copy");
+    document.body.removeChild(aux);}
 //]]></script>
