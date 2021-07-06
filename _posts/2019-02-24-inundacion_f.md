@@ -28,7 +28,7 @@ Como parte de las labores de supervisión en los procesos de estimación, preven
 <object data="http://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//6460_informe-de-evaluacion-del-riesgo-por-lluvias-en-el-centro-poblado-de-punchana.pdf" type="application/pdf" width="400" height="600">
 
 <p>Tu navegador no tiene el plugin para previsualizar documentos pdf.</p>
-<p>Puedes descargarte el archivo desde <a href="http://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//6460_informe-de-evaluacion-del-riesgo-por-lluvias-en-el-centro-poblado-de-punchana.pdf">aquí</a></p>
+<p>Puedes descar el informe desde <a href="http://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//6460_informe-de-evaluacion-del-riesgo-por-lluvias-en-el-centro-poblado-de-punchana.pdf">aquí</a></p>
 
 </object>
 ---
