@@ -26,11 +26,11 @@ Como parte de las labores de supervisión en los procesos de estimación, preven
 
 ###### Informe de evaluación del riesgo:
 <object data="http://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//6460_informe-de-evaluacion-del-riesgo-por-lluvias-en-el-centro-poblado-de-punchana.pdf" type="application/pdf" width="400" height="600">
-
 <p>Tu navegador no tiene el plugin para previsualizar documentos pdf.</p>
 <p>Puedes descar el informe desde <a href="http://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//6460_informe-de-evaluacion-del-riesgo-por-lluvias-en-el-centro-poblado-de-punchana.pdf">aquí</a></p>
-
 </object>
+
+<iframe src="http://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//6460_informe-de-evaluacion-del-riesgo-por-lluvias-en-el-centro-poblado-de-punchana.pdf" style="width:500px; height:375px;" frameborder="0"></iframe>
 ---
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjhon.chahua.902%2Fposts%2F349666645881130&show_text=true&width=500" width="500" height="757" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
