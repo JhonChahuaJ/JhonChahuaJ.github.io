@@ -19,15 +19,15 @@ Como parte de las labores de supervisión en los procesos de estimación, preven
 
 ---
 ##### Ubicación de la zona inspeccionada:
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27579.39127295144!2d-73.26224349247815!3d-3.7257703952768693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91ea1a95b79906f3%3A0x4f7ebf4fab77e8bc!2sPunchana%2C%20Iquitos!5e1!3m2!1ses-419!2spe!4v1625525688472!5m2!1ses-419!2spe" width="350" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27579.39127295144!2d-73.26224349247815!3d-3.7257703952768693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91ea1a95b79906f3%3A0x4f7ebf4fab77e8bc!2sPunchana%2C%20Iquitos!5e1!3m2!1ses-419!2spe!4v1625525688472!5m2!1ses-419!2spe" width="350" height="450" style="border-radius:8px; box-shadow: 0 1px 1px rgba(0,0,0,0.11),0 2px 2px rgba(0,0,0,0.11),0 4px 4px rgba(0,0,0,0.11),0 6px 8px rgba(0,0,0,0.11),0 8px 16px rgba(0,0,0,0.11);" allowfullscreen="" loading="lazy"></iframe>
 ---
 La situación general de las viviendas, que se encuentran alejadas de la zona urbana de Punchana, permanecen inundadas con una altura de <b>1m</b> aproximadamente, lo que origina que todas las viviendas presenten pisos elevados a más de <b>2.00m</b> en promedio (Figura 1), así como las zonas de tránsito peatonal se ubican a 1.80m sobre el nivel del suelo (Figura 2).
 
 ###### Figura 1: Viviendas con pisos elevados.
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D349666159214512%26set%3Da.349662819214846%26type%3D3&show_text=false&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D349666159214512%26set%3Da.349662819214846%26type%3D3&show_text=false&width=500" width="500" height="281" style="border-radius:8px; box-shadow: 0 1px 1px rgba(0,0,0,0.11),0 2px 2px rgba(0,0,0,0.11),0 4px 4px rgba(0,0,0,0.11),0 6px 8px rgba(0,0,0,0.11),0 8px 16px rgba(0,0,0,0.11);" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ###### Figura 2: Zona de tránsito peatonal.
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D349666379214490%26set%3Da.349662819214846%26type%3D3&show_text=false&width=500" width="500" height="375" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D349666379214490%26set%3Da.349662819214846%26type%3D3&show_text=false&width=500" width="500" height="375" style="border-radius:8px; box-shadow: 0 1px 1px rgba(0,0,0,0.11),0 2px 2px rgba(0,0,0,0.11),0 4px 4px rgba(0,0,0,0.11),0 6px 8px rgba(0,0,0,0.11),0 8px 16px rgba(0,0,0,0.11);" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 El informe de Evaluación del Riesgo puede ser descargado mediante el siguiente enlace: [Informe EVAR](http://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//6460_informe-de-evaluacion-del-riesgo-por-lluvias-en-el-centro-poblado-de-punchana.pdf)
 
@@ -35,7 +35,7 @@ De acuerdo a la evaluación realizada dichas viviendas se encuentran en un nivel
 
 ---
 ###### Album fotográfico de la publiación en redes sociales.
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjhon.chahua.902%2Fposts%2F349666645881130&show_text=true&width=500" width="500" height="757" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjhon.chahua.902%2Fposts%2F349666645881130&show_text=true&width=500" width="500" height="757" style="border-radius:8px; box-shadow: 0 1px 1px rgba(0,0,0,0.11),0 2px 2px rgba(0,0,0,0.11),0 4px 4px rgba(0,0,0,0.11),0 6px 8px rgba(0,0,0,0.11),0 8px 16px rgba(0,0,0,0.11);" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 ---
 
 > ¿Te fue útil esta publicación? referéncialo en tus documentos utilizando la Norma APA (7ma versión):
